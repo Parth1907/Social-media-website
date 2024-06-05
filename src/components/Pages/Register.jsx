@@ -218,9 +218,6 @@ export default function Register() {
 						<h1 className="flex justify-center mt-0">OR</h1>
 					</CardBody>
 					<CardFooter className="pt-0">
-						<Button variant="gradient" fullWidth className="mb-4">
-							Sign In with Google
-						</Button>
 						<div className="mt-6 flex items-center font-roboto text-base justify-center">
 							Already have an account?
 							<Link to="/login">
