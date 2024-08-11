@@ -1,8 +1,10 @@
-# React + Vite
+# Webiste Images
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Login Page
+![Screenshot 2024-08-11 155802](https://github.com/user-attachments/assets/5064311e-6e5c-44bc-b0d5-898213c08790)
 
-Currently, two official plugins are available:
+## Home Page
+![Screenshot 2024-08-11 155956](https://github.com/user-attachments/assets/6b5afa7b-5b93-4fd4-9530-f9f9b75f7d69)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Post
+![Screenshot 2024-08-11 160056](https://github.com/user-attachments/assets/023d128c-3e8c-4b65-b964-6bfd57df0c12)
